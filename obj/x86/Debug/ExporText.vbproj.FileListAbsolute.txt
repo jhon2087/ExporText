@@ -1,0 +1,65 @@
+E:\Project\ExporText\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\ExporText\obj\x86\Debug\ExporText.Form1.resources
+E:\Project\ExporText\obj\x86\Debug\ExporText.Resources.resources
+E:\Project\ExporText\obj\x86\Debug\ExporText.RegistroEmisor.resources
+E:\Project\ExporText\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\ExporText\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\ExporText\bin\Debug\ExporText.exe.config
+E:\Project\ExporText\bin\Debug\ExporText.exe
+E:\Project\ExporText\bin\Debug\ExporText.pdb
+E:\Project\ExporText\bin\Debug\ExporText.xml
+E:\Project\ExporText\obj\x86\Debug\ExporText.exe
+E:\Project\ExporText\obj\x86\Debug\ExporText.xml
+E:\Project\ExporText\obj\x86\Debug\ExporText.pdb
+D:\ExporText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ExporText\obj\x86\Debug\ExporText.CrearTxt.resources
+D:\ExporText\obj\x86\Debug\ExporText.Form1.resources
+D:\ExporText\obj\x86\Debug\ExporText.Resources.resources
+D:\ExporText\obj\x86\Debug\ExporText.RegistroEmisor.resources
+D:\ExporText\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ExporText\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ExporText\bin\Debug\ExporText.exe.config
+D:\ExporText\bin\Debug\ExporText.exe
+D:\ExporText\bin\Debug\ExporText.pdb
+D:\ExporText\bin\Debug\ExporText.xml
+D:\ExporText\obj\x86\Debug\ExporText.exe
+D:\ExporText\obj\x86\Debug\ExporText.xml
+D:\ExporText\obj\x86\Debug\ExporText.pdb
+D:\ExporText\bin\Debug\ExporText.exe.manifest
+D:\ExporText\bin\Debug\ExporText.application
+D:\ExporText\obj\x86\Debug\ExporText.exe.manifest
+D:\ExporText\obj\x86\Debug\ExporText.application
+D:\BOLETA TEXT\ExporText\bin\Debug\ExporText.exe.config
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.exe
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.xml
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.pdb
+D:\BOLETA TEXT\ExporText\bin\Debug\ExporText.exe.manifest
+D:\BOLETA TEXT\ExporText\bin\Debug\ExporText.application
+D:\BOLETA TEXT\ExporText\bin\Debug\ExporText.exe
+D:\BOLETA TEXT\ExporText\bin\Debug\ExporText.pdb
+D:\BOLETA TEXT\ExporText\bin\Debug\ExporText.xml
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.CrearTxt.resources
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.Form1.resources
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.Resources.resources
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.RegistroEmisor.resources
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.exe.manifest
+D:\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.application
+E:\JHON\BOLETA TEXT\ExporText\bin\Debug\ExporText.exe.config
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.exe
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.xml
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.pdb
+E:\JHON\BOLETA TEXT\ExporText\bin\Debug\ExporText.exe
+E:\JHON\BOLETA TEXT\ExporText\bin\Debug\ExporText.pdb
+E:\JHON\BOLETA TEXT\ExporText\bin\Debug\ExporText.xml
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.CrearTxt.resources
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.Form1.resources
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.Resources.resources
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.RegistroEmisor.resources
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.vbproj.GenerateResource.Cache
+E:\JHON\BOLETA TEXT\ExporText\bin\Debug\ExporText.exe.manifest
+E:\JHON\BOLETA TEXT\ExporText\bin\Debug\ExporText.application
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.exe.manifest
+E:\JHON\BOLETA TEXT\ExporText\obj\x86\Debug\ExporText.application
